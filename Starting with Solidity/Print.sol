@@ -5,3 +5,5 @@ contract HelloWorld {
         return 'Hello Contracts';
     }
 }
+
+resource: https://www.geeksforgeeks.org/hello-world-smart-contract-in-remix-ide/
